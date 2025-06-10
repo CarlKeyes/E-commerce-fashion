@@ -1,0 +1,27 @@
+{
+    "pactus": [{
+        "title": "Pactus",
+        "icon": "/companies/pactus.svg",
+        "value": "PAC"
+    }],
+    "networks": [{
+            "value": "amoy",
+            "title": "Polygon",
+            "chainId": 137,
+            "icon": "/companies/polygon.svg"
+        },
+        {
+            "title": "Binance Smart Chain",
+            "value": "bsc",
+            "chainId": 56,
+            "icon": "/companies/binance-smart-chain.svg"
+        },
+        {
+            "title": "Base Blockchain",
+            "value": "base",
+            "chainId": 8453,
+            "icon": "/companies/baseBlockchain.svg"
+        }
+
+    ]
+}
